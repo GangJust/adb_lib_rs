@@ -1,0 +1,3 @@
+[workspace]
+members = ["adb_lib", "example"]
+resolver = "2"
